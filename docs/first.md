@@ -1,1 +1,1 @@
-Hey!
+Hey this is the first post on my new blog

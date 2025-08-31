@@ -28,8 +28,8 @@
     {
       "path": "first.md",
       "url": "first.html",
-      "content": "Hey!\n",
-      "html": "<p>Hey!</p>\n",
+      "content": "Hey this is the first post on my new blog",
+      "html": "<p>Hey this is the first post on my new blog</p>\n",
       "id": 1
     },
     {
