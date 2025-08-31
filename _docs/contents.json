@@ -1,0 +1,50 @@
+{
+  "paths": [
+    {
+      "type": "file",
+      "value": "index.md"
+    },
+    {
+      "type": "file",
+      "value": "first.md"
+    },
+    {
+      "type": "file",
+      "value": "second.md"
+    },
+    {
+      "type": "file",
+      "value": "test.md"
+    }
+  ],
+  "contents": [
+    {
+      "path": "index.md",
+      "url": "index.html",
+      "content": "This is the index page because I had to have one to generate an index.html\n",
+      "html": "<p>This is the index page because I had to have one to generate an index.html</p>\n",
+      "id": 0
+    },
+    {
+      "path": "first.md",
+      "url": "first.html",
+      "content": "Hey!\n",
+      "html": "<p>Hey!</p>\n",
+      "id": 1
+    },
+    {
+      "path": "second.md",
+      "url": "second.html",
+      "content": "",
+      "html": "",
+      "id": 2
+    },
+    {
+      "path": "test.md",
+      "url": "test.html",
+      "content": "- hey!\n",
+      "html": "<ul>\n<li>hey!</li>\n</ul>\n",
+      "id": 3
+    }
+  ]
+}
