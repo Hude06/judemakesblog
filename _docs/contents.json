@@ -6,7 +6,7 @@
     },
     {
       "type": "file",
-      "value": "first.md"
+      "value": "JS13K.md"
     },
     {
       "type": "file",
@@ -26,10 +26,10 @@
       "id": 0
     },
     {
-      "path": "first.md",
-      "url": "first.html",
-      "content": "Hey this is the first post on my new blog",
-      "html": "<p>Hey this is the first post on my new blog</p>\n",
+      "path": "JS13K.md",
+      "url": "JS13K.html",
+      "content": "This is my entry for the JS13k GAME 2025\n[JS13k Game Entry](../games/JS13K2025/index.html)",
+      "html": "<p>This is my entry for the JS13k GAME 2025\n<a href=\"../games/JS13K2025/index.html\">JS13k Game Entry</a></p>\n",
       "id": 1
     },
     {
